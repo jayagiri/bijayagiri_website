@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbar from './Navbar'
-import myimg from '../img/img1.jpg'
+import myimg from '../img/pp.jpeg'
 
 const home = () => {
   return (
